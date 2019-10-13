@@ -1,6 +1,4 @@
-% BLG435E-AI Fall/2005 HW#1
-% Student Number: 040020365
-% Student Name: Mehmet CAMBAZ
+
 %-------------------------------------------------------------------------
 % This program finds the shortest route between two cities.
 
